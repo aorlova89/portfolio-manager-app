@@ -1,0 +1,13 @@
+.App {
+  width: 80%;
+  margin: auto;
+}
+
+input{
+  width: 120px;
+}
+
+a:link, a:visited {
+  text-decoration: none;
+  color: black;
+}

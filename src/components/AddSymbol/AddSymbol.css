@@ -1,0 +1,42 @@
+.add-symbol{
+    display: flex;
+    flex-direction: row;
+    border: 1px solid #babfc7;
+    border-top: 0;
+
+    width: 648px;
+}
+
+/*#symbol{*/
+/*    display: flex;*/
+/*    justify-content: space-between;*/
+/*}*/
+
+/*.addSymbolBtn {*/
+/*    margin-right: 1px;*/
+/*    height: 20px;*/
+/*    align-self: center;*/
+/*}*/
+
+.addSymbolBtn {
+    width: 50px;
+}
+
+input {
+    border: 0;
+    padding: 0px 17px;
+    outline: none;
+    height: 40px;
+}
+
+input:focus {
+    outline: none;
+}
+
+div[id="symbol"] {
+    width: 300px;
+}
+
+div[id="shares"], div[id="buy"] {
+    width: 150px;
+}

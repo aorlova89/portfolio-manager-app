@@ -1,0 +1,19 @@
+.active-link, .nav-bar a:hover {
+  background-color: #696969;
+  color: #f1f1f1!important;
+}
+
+.nav-bar {
+  overflow: hidden;
+  background-color: #f1f1f1;
+  margin: 8px 0;
+  width: 150px;
+}
+
+.nav-bar a {
+  color: #000000;
+  float: left;
+  text-align: center;
+  padding: 6px 8px;
+  text-decoration: none;
+}
